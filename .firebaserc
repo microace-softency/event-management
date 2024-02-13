@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "eventsbymicroace"
+  },
+  "targets": {
+    "eventsbymicroace": {
+      "hosting": {
+        "client": [
+          "eventsbymicroace"
+        ]
+      }
+    }
+  },
+  "etags": {
+    "eventsbymicroace": {
+      "extensionInstances": {}
+    }
+  }
+}
